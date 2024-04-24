@@ -1,0 +1,16 @@
+Number of samples: 353
+Accuracy: 0.22946175637393768
+
+Ground truth distribution
+Option 0 Actual: 69
+Option 1 Actual: 71
+Option 2 Actual: 67
+Option 3 Actual: 64
+Option 4 Actual: 82
+
+Predicted Distribution
+Option 0 Chosen: 2
+Option 1 Chosen: 136
+Option 2 Chosen: 64
+Option 3 Chosen: 78
+Option 4 Chosen: 73
