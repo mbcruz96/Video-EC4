@@ -1,4 +1,4 @@
-#Video-EC4
+# Video-EC4
 The inherent properties of egocentric video pose a significant challenge for traditional LVLMs, hampering their comprehension. Challenges such as unusual viewpoints, 
 rapid camera movement, and the strong focus on hands and objects in the setting of action requires the model to go beyond the conventional video comprehension approach 
 of merely depending on object recognition. These tasks require complex reasoning abilities regardingcontext, spatial dynamics, and the holistic motivations behind the 
